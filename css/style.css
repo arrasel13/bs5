@@ -1,0 +1,20 @@
+.box{
+	min-height: 150px;
+	background-color: #581845;
+}
+
+.box1{
+	min-height: 300px;
+	width: 100%;
+	/*border: 1px solid;*/
+	background-image: url(../images/xxl_img.jpeg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+.res_txt{
+	text-align: center;
+	color: #581845;
+	font-size: 180px;
+}
